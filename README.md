@@ -187,7 +187,7 @@
 
 [![Email](https://img.shields.io/badge/Email-0EA5E9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prakash4reall@gmail.com)
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0284C7?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhanu-prakash-yirri/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0284C7?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhanuprakashyirri/)
 &nbsp;
 [![GitHub](https://img.shields.io/badge/bhanuprakashyirri-164E63?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bhanuprakashyirri)
 
