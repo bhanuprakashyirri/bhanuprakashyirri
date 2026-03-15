@@ -24,11 +24,12 @@
 
 | | |
 |---|---|
-| 🎓 | 1st Year Computer Science Student |
+| 🎓 | 1st Year Computer Science & Design Student |
 | 🌍 | Building tech that solves real-world healthcare & social problems |
+| 🤖 | Learning AIML through an external course to expand my AI Knowledge |
 | 🚀 | Currently shipping full-stack apps with React + Node.js + AI |
 | 🌱 | Levelling up in System Design · Auth flows · REST APIs · Testing |
-| 🏆 | Hackathon builder — **Hackoverflow 2k25** finalist with Blood Link |
+| 🏆 | Hackathon builder — **Udbhav 2k26** 2nd place with MediVault |
 | 🤝 | Open to internships, collaborations and honest code reviews |
 | 📍 | Tanuku, Andhra Pradesh, India |
 | 📬 | prakash4reall@gmail.com |
@@ -184,7 +185,7 @@
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/prakash4reall%40gmail.com-0EA5E9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prakash4reall@gmail.com)
+[![Email](https://img.shields.io/badge/Email-0EA5E9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prakash4reall@gmail.com)
 &nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0284C7?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhanu-prakash-yirri-9b024539b/)
 &nbsp;
