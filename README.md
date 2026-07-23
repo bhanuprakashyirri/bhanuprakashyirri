@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&pause=1000&color=22D3EE&center=true&vCenter=true&width=560&lines=Building+tech+that+solves+real+problems+%F0%9F%8C%8D;React+%2B+Node.js+%2B+PostgreSQL+%2B+AI;Hackathon+builder+%7C+Open+to+internships+%F0%9F%91%8B;1st+year+CS+student%2C+shipping+in+public)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&pause=1000&color=22D3EE&center=true&vCenter=true&width=560&lines=Building+tech+that+solves+real+problems+%F0%9F%8C%8D;React+%2B+Node.js+%2B+PostgreSQL+%2B+AI;Hackathon+builder+%7C+Open+to+internships+%F0%9F%91%8B;2nd+year+CS+student%2C+shipping+in+public)](https://git.io/typing-svg)
 
 </div>
 
@@ -24,7 +24,7 @@
 
 | | |
 |---|---|
-| 🎓 | 1st Year Computer Science & Design Student |
+| 🎓 | 2nd Year Computer Science & Design Student |
 | 🌍 | Building tech that solves real-world healthcare & social problems |
 | 🤖 | Learning AIML through an external course to expand my AI Knowledge |
 | 🚀 | Currently shipping full-stack apps with React + Node.js + AI |
